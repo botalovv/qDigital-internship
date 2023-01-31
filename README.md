@@ -1,3 +1,3 @@
 # qDigital-internship
 
-Задание 0. Работа с git.
+# Задание 0. Работа с git.
