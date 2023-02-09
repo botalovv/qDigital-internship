@@ -8,3 +8,7 @@ https://github.com/botalovv/qDigital-layout - выполненный проек�
 
 # Задание 2. Адаптивная вёрстка с использованием Tailwind. 
 https://github.com/botalovv/qDigital-tailwind - выполненный проект
+
+
+# Задание 3. Библиотека на NativeJS.
+https://github.com/botalovv/qDigital-library
