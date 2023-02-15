@@ -12,3 +12,6 @@ https://github.com/botalovv/qDigital-tailwind - выполненный прое�
 
 # Задание 3. Библиотека на NativeJS.
 https://github.com/botalovv/qDigital-library
+
+# Задание 5. Работа с ООП.
+https://github.com/botalovv/qDigital-OOP
